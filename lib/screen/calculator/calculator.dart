@@ -10,7 +10,7 @@ class _CalculationScreenState extends State<CalculationScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Tôi bán'),
+        title: Text('Tôi mua'),
         backgroundColor: Colors.green,
       ),
     );

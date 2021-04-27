@@ -37,7 +37,7 @@ class _MenuBottomScreenState extends State<MenuBottomScreen> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.calculate),
-            label: 'Tôi bán',
+            label: 'Tôi mua',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
